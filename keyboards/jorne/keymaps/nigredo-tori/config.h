@@ -1,4 +1,4 @@
-// Copyright 2021 Joric (@joric)
+// Copyright 2024 nigredo-tori (@nigredo-tori)
 // SPDX-License-Identifier: GPL-2.0-or-later
 #pragma once
 
@@ -26,7 +26,6 @@
 
 #define EE_HANDS
 
-#define IGNORE_MOD_TAP_INTERRUPT
 // #define TAPPING_FORCE_HOLD
 // #define PERMISSIVE_HOLD
 #define TAPPING_TERM 100
